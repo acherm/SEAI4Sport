@@ -20,4 +20,5 @@ End-user programming aka vibe coding with GenAI:
 * https://bolt.new/
 * https://lovable.dev/
 * https://claude.ai/
+* https://replit.com/
 * ...
