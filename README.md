@@ -15,6 +15,9 @@ https://www.youtube.com/watch?v=LPZh9BOjkQs
 
 Flappy Toulon: https://4cie49cdhnjddsco.vercel.app/
 
-End-user programming with GenAI: 
+End-user programming aka vibe coding with GenAI: 
 * https://v0.dev/
 * https://bolt.new/
+* https://lovable.dev/
+* https://claude.ai/
+* ...
