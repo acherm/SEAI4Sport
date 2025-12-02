@@ -1,6 +1,6 @@
 # IA et logiciel pour la science du sport
 
-Slides (introduction): https://docs.google.com/presentation/d/1rItFL_yRjfj6V6P3Is0mLoeQRcJ0kj1OxbqRxNgX95U/edit?usp=sharing
+Slides (introduction): [https://docs.google.com/presentation/d/1rItFL_yRjfj6V6P3Is0mLoeQRcJ0kj1OxbqRxNgX95U/edit?usp=sharing](https://docs.google.com/presentation/d/17eOi437lz9S9DtRb8nWbPNcdnbO2Xgh7QtIUHyLPZGY/edit?usp=sharing)
 
 Collaborative notes: https://docs.google.com/document/d/1L24OO9eXZwzBO43LxleREvlCrnQG6qfW6__NPqCSGes/edit?usp=sharing 
 
