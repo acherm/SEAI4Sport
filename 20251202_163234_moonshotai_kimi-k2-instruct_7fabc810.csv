@@ -1,0 +1,21 @@
+model_name,temperature,max_tokens,prompt,answer,run_index
+moonshotai/kimi-k2-instruct,0.8,10,Faut-il manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non.,0
+moonshotai/kimi-k2-instruct,0.8,10,Faut-il manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non,1
+moonshotai/kimi-k2-instruct,0.8,10,Faut-il manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non.,2
+moonshotai/kimi-k2-instruct,0.8,10,Faut-il manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non.,3
+moonshotai/kimi-k2-instruct,0.8,10,Faut-il manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non.,4
+moonshotai/kimi-k2-instruct,0.8,10,Faut-il manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non.,5
+moonshotai/kimi-k2-instruct,0.8,10,Faut-il manger avant d'aller courir le matin ? Répond uniquement oui ou non,Oui,6
+moonshotai/kimi-k2-instruct,0.8,10,Faut-il manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non,7
+moonshotai/kimi-k2-instruct,0.8,10,Faut-il manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non.,8
+moonshotai/kimi-k2-instruct,0.8,10,Faut-il manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non.,9
+moonshotai/kimi-k2-instruct,0.8,10,Faut-il manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non,10
+moonshotai/kimi-k2-instruct,0.8,10,Faut-il manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non.,11
+moonshotai/kimi-k2-instruct,0.8,10,Faut-il manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non,12
+moonshotai/kimi-k2-instruct,0.8,10,Faut-il manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non.,13
+moonshotai/kimi-k2-instruct,0.8,10,Faut-il manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non.,14
+moonshotai/kimi-k2-instruct,0.8,10,Faut-il manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non.,15
+moonshotai/kimi-k2-instruct,0.8,10,Faut-il manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non.,16
+moonshotai/kimi-k2-instruct,0.8,10,Faut-il manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non.,17
+moonshotai/kimi-k2-instruct,0.8,10,Faut-il manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non.,18
+moonshotai/kimi-k2-instruct,0.8,10,Faut-il manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non.,19
