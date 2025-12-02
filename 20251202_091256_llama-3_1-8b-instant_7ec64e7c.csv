@@ -1,0 +1,21 @@
+model_name,temperature,max_tokens,prompt,answer,run_index
+llama-3.1-8b-instant,0.8,10,Faut-il nécessairement manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non,0
+llama-3.1-8b-instant,0.8,10,Faut-il nécessairement manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non,1
+llama-3.1-8b-instant,0.8,10,Faut-il nécessairement manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non,2
+llama-3.1-8b-instant,0.8,10,Faut-il nécessairement manger avant d'aller courir le matin ? Répond uniquement oui ou non,Oui,3
+llama-3.1-8b-instant,0.8,10,Faut-il nécessairement manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non.,4
+llama-3.1-8b-instant,0.8,10,Faut-il nécessairement manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non.,5
+llama-3.1-8b-instant,0.8,10,Faut-il nécessairement manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non.,6
+llama-3.1-8b-instant,0.8,10,Faut-il nécessairement manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non.,7
+llama-3.1-8b-instant,0.8,10,Faut-il nécessairement manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non.,8
+llama-3.1-8b-instant,0.8,10,Faut-il nécessairement manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non.,9
+llama-3.1-8b-instant,0.8,10,Faut-il nécessairement manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non.,10
+llama-3.1-8b-instant,0.8,10,Faut-il nécessairement manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non.,11
+llama-3.1-8b-instant,0.8,10,Faut-il nécessairement manger avant d'aller courir le matin ? Répond uniquement oui ou non,Oui.,12
+llama-3.1-8b-instant,0.8,10,Faut-il nécessairement manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non.,13
+llama-3.1-8b-instant,0.8,10,Faut-il nécessairement manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non.,14
+llama-3.1-8b-instant,0.8,10,Faut-il nécessairement manger avant d'aller courir le matin ? Répond uniquement oui ou non,Oui.,15
+llama-3.1-8b-instant,0.8,10,Faut-il nécessairement manger avant d'aller courir le matin ? Répond uniquement oui ou non,Oui.,16
+llama-3.1-8b-instant,0.8,10,Faut-il nécessairement manger avant d'aller courir le matin ? Répond uniquement oui ou non,Non,17
+llama-3.1-8b-instant,0.8,10,Faut-il nécessairement manger avant d'aller courir le matin ? Répond uniquement oui ou non,"HTTP_429: {""error"":{""message"":""Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01hwb40er1fyz8hdask42dzzrx` service tier `on_demand` on requests per minute (RPM): Limit 30, Used 30, Requ",18
+llama-3.1-8b-instant,0.8,10,Faut-il nécessairement manger avant d'aller courir le matin ? Répond uniquement oui ou non,"HTTP_429: {""error"":{""message"":""Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01hwb40er1fyz8hdask42dzzrx` service tier `on_demand` on requests per minute (RPM): Limit 30, Used 30, Requ",19

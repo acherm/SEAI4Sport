@@ -1,0 +1,21 @@
+model_name,temperature,max_tokens,prompt,answer,run_index
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ?",Sur une échelle de 1 à ,0
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ?",Sur une échelle de 1 (abs,1
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ?",Sur une échelle de 1 à ,2
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ?",Je dirais 3 (peut-être oui,3
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ?",Je dirais 4 (presque oui),4
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ?",L'échelle de 1 à 5,5
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ?",Je dirais un 4 sur 5.,6
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ?",Sur une échelle de 1 (abs,7
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ?","La réponse dépend de plusieurs facteurs, notamment",8
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ?",Je dirais 4 sur 5. M,9
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ?",Sur une échelle de 1 (abs,10
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ?",Je dirais qu'il est prudent de manger,11
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ?",Sur une échelle de 1 (abs,12
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ?",Je dirais que la réponse est : 4,13
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ?",Je dirais 4 (très probablement,14
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ?",Sur une échelle de 1 (abs,15
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ?",Sur une échelle de 1 (abs,16
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ?",Je dirais 3 sur 5. M,17
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ?",C'est une question classique qui intéresse de,18
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ?",Sur une échelle de 1 (abs,19

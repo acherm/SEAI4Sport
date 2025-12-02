@@ -1,0 +1,61 @@
+model_name,temperature,max_tokens,prompt,answer,run_index
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ? Répond par 1, 2, 3, 4, ou 5","3
+
+Manger avant d'aller courir",0
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ? Répond par 1, 2, 3, 4, ou 5","3
+
+Manger avant d'aller courir",1
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ? Répond par 1, 2, 3, 4, ou 5","3
+
+Manger avant de courir le mat",2
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ? Répond par 1, 2, 3, 4, ou 5","3
+
+Il n'est pas absolument nécessaire de",3
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ? Répond par 1, 2, 3, 4, ou 5","2
+
+Manger un petit-déjeuner",4
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ? Répond par 1, 2, 3, 4, ou 5","3
+
+Manger avant d'aller courir",5
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ? Répond par 1, 2, 3, 4, ou 5","2
+
+Manger avant de courir le mat",6
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ? Répond par 1, 2, 3, 4, ou 5","2
+
+Manger avant de courir le mat",7
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ? Répond par 1, 2, 3, 4, ou 5","3
+
+Il n'est pas nécessaire de manger",8
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ? Répond par 1, 2, 3, 4, ou 5","3
+
+Manger avant d'aller courir",9
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ? Répond par 1, 2, 3, 4, ou 5","3
+
+Manger avant d'aller courir",10
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ? Répond par 1, 2, 3, 4, ou 5","3
+
+Manger avant d'aller courir",11
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ? Répond par 1, 2, 3, 4, ou 5","3
+
+Manger avant de courir le mat",12
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ? Répond par 1, 2, 3, 4, ou 5","3
+
+Manger avant d'aller courir",13
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ? Répond par 1, 2, 3, 4, ou 5","3
+
+Manger une petite collation ou un",14
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ? Répond par 1, 2, 3, 4, ou 5","4
+
+Manger avant d'aller courir",15
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ? Répond par 1, 2, 3, 4, ou 5","3
+
+Manger avant d'aller courir",16
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ? Répond par 1, 2, 3, 4, ou 5","3
+
+Manger avant d'aller courir",17
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ? Répond par 1, 2, 3, 4, ou 5","3 (peut-varier) 
+
+Manger",18
+llama-3.1-8b-instant,0.8,10,"Sur une échelle de 1 (absolument non) à 5 (absolument oui), faut-il nécessairement manger avant d'aller courir le matin ? Répond par 1, 2, 3, 4, ou 5","3
+
+Manger avant d'aller courir",19
